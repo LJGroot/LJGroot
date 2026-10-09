@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LJGroot,
 - 👀 I’m interested in Child Develoment \& Education, (Meta-Analytical) Structural Equation Modeling, \& Rock Climbing 🧗‍♂️.
-- 🌱 I currently use `R`, `Markdown`, `LaTeX`, `HTML`, `CSS`, \& `Python`, with varying levels of proficiency.
+- 🌱 I currently use `R`, `Quarto`, `LaTeX`, `HTML`, `CSS`, `JavaScript` \& `Python`, with varying levels of proficiency.
 - 📫 How to reach me: l.j.groot@uva.nl
 
 <!---
