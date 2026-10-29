@@ -2,7 +2,7 @@
 
 🎓 I'm a researcher at the University of Amsterdam.
 
-👀 For more information, check out my Github pages website at https://ljgroot.github.io/index.html
+👀 For more information, check out my Github pages website at https://ljgroot.github.io/
 
 <!---
 LJGroot/LJGroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
