@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LJGroot,
-- 👀 I’m interested in Child Develoment \& Education, (Meta-Analytical) Structural Equation Modeling, \& Rock Climbing 🧗‍♂️.
-- 🌱 I currently use `R`, `Quarto`, `LaTeX`, `HTML`, `CSS`, `JavaScript` \& `Python`, with varying levels of proficiency.
-- 📫 How to reach me: l.j.groot@uva.nl
+- 👀 Check out my Github pages website at https://ljgroot.github.io/index.html
 
 <!---
 LJGroot/LJGroot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
